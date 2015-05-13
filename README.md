@@ -8,7 +8,7 @@ Now that the team just got a lot bigger with >2k folks contributing to the open 
 
 The following assets are currently available:
 
-[.NET Foundation Logo](https://github.com/dotnet/swag/logo)
+[.NET Foundation Logo](/logo)
 
 ![.NET Foundation Logo](/logo/dotnetfoundation_v4_small.png?raw=true)
 

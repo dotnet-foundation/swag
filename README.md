@@ -10,7 +10,7 @@ The following assets are currently available:
 
 [.NET Foundation Logo](https://github.com/dotnet/swag/logo)
 
-![.NET Foundation Logo](https://raw.githubusercontent.com/dotnet/swag/master/logo/dotnetfoundation_v4_small.png)
+![.NET Foundation Logo](/logo/dotnetfoundation_v4_small.png?raw=true)
 
 ## Contributing
 

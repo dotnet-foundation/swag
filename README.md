@@ -18,5 +18,5 @@ Anyone is welcome to contribute new artwork to be used for .NET Foundation swag 
 
 ## License
 
-Artwork in the swag repo is licensed under the very permissive [CC0 1.0 Universal license](https://github.com/dotnet/swag/blob/master/LICENSE).  You are positively encouraged to use the artwork to create your own swag items to give away at community events etc. Be sure to tweet pictures to [@dotnetfdn](https://twitter.com/dotnetfdn) showing your swag being worm with pride!
+Artwork in the swag repo is licensed under the very permissive [CC0 1.0 Universal license](https://github.com/dotnet/swag/blob/master/LICENSE).  You are positively encouraged to use the artwork to create your own swag items to give away at community events etc. Be sure to tweet pictures to [@dotnetfdn](https://twitter.com/dotnetfdn) showing your swag being worn with pride!
 

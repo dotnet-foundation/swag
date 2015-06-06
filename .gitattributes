@@ -1,0 +1,10 @@
+# Default crlf conversion to be off
+* -text
+
+# For completeness sake, define graphics as binaries
+*.png binary
+*.jpg binary
+*.pdf binary
+*.svg binary
+*.ai binary
+

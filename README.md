@@ -12,6 +12,14 @@ The following assets are currently available:
 
 ![.NET Foundation Logo](/logo/dotnetfoundation_v4_small.png?raw=true)
 
+This is the logo for the .NET Foundation.
+
+[.NET Source T-Shirt](/dotnet_source)
+
+![.NET Foundation Logo](/dotnet_source/DotNetSource_small.png?raw=true)
+
+The .NET Source graphic, first seen on the T-Shirts distributed at the Build 2015 conference in San Francisco.
+
 ## Contributing
 
 Anyone is welcome to contribute new artwork to be used for .NET Foundation swag under the [license (CC0)](https://github.com/dotnet/swag/blob/master/LICENSE). By contributing to the swag repo you are also giving your permission to use the artwork on swag items and be made available in the swag store royalty free.  Also remember that you must respect the copyright and trademarks of others in your submissions.

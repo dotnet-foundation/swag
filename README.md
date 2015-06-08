@@ -8,21 +8,22 @@ Now that the team just got a lot bigger with >2k folks contributing to the open 
 
 The following assets are currently available:
 
-[.NET Foundation Logo](/logo)
+### [.NET Foundation Logo](/logo)
 
-![.NET Foundation Logo](/logo/dotnetfoundation_v4_small.png?raw=true =200x)
+<a href="/logo/dotnetfoundation_v4_small.png"><img src="/logo/dotnetfoundation_v4_small.png" width="250px"/></a>
 
 This is the logo for the .NET Foundation.
 
-[.NET Source T-Shirt](/dotnet_source)
+### [.NET Source T-Shirt](/dotnet_source)
 
-![.NET Foundation Logo](/dotnet_source/DotNetSource_small.png?raw=true =200x)
+![.NET Foundation Logo](/dotnet_source/DotNetSource_small.png)
 
 The .NET Source graphic, first seen on the T-Shirts distributed at the Build 2015 conference in San Francisco.
 
-[Roslyn](/roslyn)
+### [Roslyn](/roslyn)
 
-![Roslyn Logo](/roslyn/roslyn_kuhlenh.png?raw=true =200x)
+<a href="/roslyn/roslyn_kuhlenh.png"><img src="/roslyn/roslyn_kuhlenh.png" width="250px"/></a>
+
 Roslyn logo designed by [kuhlenh](https://github.com/kuhlenh) for supporters of the [Roslyn project](https://github.com/dotnet/roslyn). Can be used for stickers or to print on t-shirts, sunglasses, hats, mugs, etc.
 
 ## Contributing

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="400" height="400" viewBox="0, 0, 400, 400">
+  <g id="Layer_1">
+    <path d="M212,13 C120.304,13 44.112,79.356 28.807,166.667 C46.433,166.681 60.718,180.973 60.718,198.602 C60.718,216.239 46.42,230.537 28.782,230.537 C28.746,230.537 28.711,230.534 28.675,230.534 C43.654,318.238 120.025,385 212,385 C314.725,385 398,301.725 398,199 C398,96.275 314.725,13 212,13" fill="#68217A"/>
+    <path d="M152.052,220.588 L132.914,220.588 L98.218,167.693 C96.183,164.601 94.774,162.273 93.991,160.707 L93.757,160.707 C94.07,163.838 94.226,168.378 94.226,174.327 L94.226,220.588 L76.321,220.588 L76.321,136.403 L96.751,136.403 L130.155,187.654 L134.381,194.522 L134.616,194.522 C134.303,192.487 134.147,188.632 134.147,182.957 L134.147,136.403 L152.052,136.403 z" fill="#FFFFFF"/>
+    <path d="M221.795,220.588 L171.308,220.588 L171.308,136.403 L219.858,136.403 L219.858,151.843 L190.27,151.843 L190.27,170.57 L217.803,170.57 L217.803,185.951 L190.27,185.951 L190.27,205.207 L221.795,205.207 z" fill="#FFFFFF"/>
+    <path d="M294.415,151.843 L270.404,151.843 L270.404,220.588 L251.383,220.588 L251.383,151.843 L227.49,151.843 L227.49,136.403 L294.415,136.403 z" fill="#FFFFFF"/>
+    <text transform="matrix(1, 0, -0, 1, 163.948, 261.975)">
+      <tspan x="-90.685" y="18" font-family="Avenir-Light" font-size="57.909" fill="#FFFFFF">found</tspan>
+      <tspan x="60.631" y="18" font-family="Avenir-Light" font-size="57.909" kerning="0" fill="#FFFFFF">a</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 264.276, 261.975)">
+      <tspan x="-9.642" y="18" font-family="Avenir-Light" font-size="57.909" kerning="0" fill="#FFFFFF">t</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 298.123, 261.975)">
+      <tspan x="-24.148" y="18" font-family="Avenir-Light" font-size="57.909" fill="#FFFFFF">i</tspan>
+      <tspan x="-10.25" y="18" font-family="Avenir-Light" font-size="57.909" kerning="0" fill="#FFFFFF">o</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 338.37, 261.975)">
+      <tspan x="-16.099" y="18" font-family="Avenir-Light" font-size="57.909" kerning="0" fill="#FFFFFF">n</tspan>
+    </text>
+    <path d="M51.282,199.167 C51.282,212.146 40.761,222.667 27.782,222.667 C14.803,222.667 4.283,212.146 4.283,199.167 C4.283,186.188 14.803,175.667 27.782,175.667 C40.761,175.667 51.282,186.188 51.282,199.167" fill="#CF18FD"/>
+  </g>
+</svg>

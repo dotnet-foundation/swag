@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="2063.622" height="884.409" viewBox="0, 0, 793.701, 340.157">
+  <g id="Layer_1">
+    <text transform="matrix(1, 0, 0, 1, 396.85, 153.732)">
+      <tspan x="-369" y="62" font-family="SourceCodePro-Regular" font-size="205" fill="#2B91AF">Cup</tspan>
+      <tspan x="0" y="62" font-family="SourceCodePro-Regular" font-size="205" fill="#000000">&lt;T&gt;</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 530.35, 320.732)">
+      <tspan x="-147.555" y="6" font-family="SourceCodePro-Regular" font-size="24" fill="#808080">https://github.com/dotnet</tspan>
+    </text>
+  </g>
+</svg>

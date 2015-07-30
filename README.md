@@ -14,6 +14,7 @@ The following assets are currently available:
 | [.NET Source T-Shirt](/dotnet_source)<br/>![.NET Foundation Logo](/dotnet_source/DotNetSource_small.png) | The .NET Source graphic, first seen on the T-Shirts distributed at the Build 2015 conference in San Francisco. |
 | [Roslyn](/roslyn)<br/><a href="/roslyn/roslyn_kuhlenh.png"><img src="/roslyn/roslyn_kuhlenh.png" width="250px"/></a> | Roslyn logo designed by [kuhlenh](https://github.com/kuhlenh) for supporters of the [Roslyn project](https://github.com/dotnet/roslyn). Can be used for stickers or to print on t-shirts, sunglasses, hats, mugs, etc. |
 | [dotnet-bot](/dotnet-bot)<br/><a href="/dotnet-bot/dotnet-bot-ascii-pot-small.png"><img src="/dotnet-bot/dotnet-bot-ascii-pot-small.png" width="250px"/></a> | The avatar for [@dotnet-bot](https://github.com/dotnet-bot). |
+| [Cup&lt;T&gt;](/cup_t)<br/><a href="/cup_t/Cup_t_small.png"><img src="/cup_t/Cup_t_small.png" width="250px"/></a> | The classic Cup&lt;T&gt;. |
 
 ## Contributing
 

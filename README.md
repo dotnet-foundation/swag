@@ -6,7 +6,7 @@ Now that the team just got a lot bigger with >2k folks contributing to the open 
 
 [Order stickers on StickerMule](https://www.stickermule.com/user/1070667147/stickers)
 
-[Order T-shirts on SpreadShrit](http://dotnet.spreadshirt.com/)
+[Order T-shirts on SpreadShirt](http://dotnet.spreadshirt.com/)
 
 ## Assets
 

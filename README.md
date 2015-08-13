@@ -2,7 +2,10 @@
 
 The .NET team has historically created swag for the team. t-shirts, mugs, port glasses, bottle openers, stickers etc. It's a great way to show our pride in working on the team, being involved in the community or commemorating a major release.
 
-Now that the team just got a lot bigger with >2k folks contributing to the open source projects in the .NET Foundation it made sense to open up the artwork for swag. We also plan to set up a self-service store to allow folks to purchase items of swag for themselves to show their love of .NET.
+Now that the team just got a lot bigger with >2k folks contributing to the open source projects in the .NET Foundation it made sense to open up the artwork for swag. We also set up a self-service store to allow folks to purchase items of swag for themselves to show their love of .NET:
+
+[Order stickers on StickerMule](https://www.stickermule.com/user/1070667147/stickers)
+[Order T-shirts on SpreadShrit](http://dotnet.spreadshirt.com/)
 
 ## Assets
 

@@ -15,7 +15,7 @@ The following assets are currently available:
 | Artwork | Additional Info |
 | ------------------- |--------------------|
 | [.NET Foundation Logo](/logo)<a href="/logo/dotnetfoundation_v4_small.png"><br/><img src="/logo/dotnetfoundation_v4_small.png" width="250px"/></a> | This is the logo for the .NET Foundation. |
-| [.NET Source T-Shirt](/dotnet_source)<br/>![.NET Foundation Logo](/dotnet_source/DotNetSource_small.png) | The .NET Source graphic, first seen on the T-Shirts distributed at the Build 2015 conference in San Francisco. |
+| [.NET Source T-Shirt](/dotnet_source)<br/>![.NET Foundation Logo](/dotnet_source/DotNetSource_small.png) | The .NET Source graphic, first seen on the T-Shirts distributed at the Build 2015 conference in San Francisco. Available with both a white background and a transparent background. |
 | [Roslyn](/roslyn)<br/><a href="/roslyn/roslyn_kuhlenh.png"><img src="/roslyn/roslyn_kuhlenh.png" width="250px"/></a> | Roslyn logo designed by [kuhlenh](https://github.com/kuhlenh) for supporters of the [Roslyn project](https://github.com/dotnet/roslyn). Can be used for stickers or to print on t-shirts, sunglasses, hats, mugs, etc. |
 | [dotnet-bot](/dotnet-bot)<br/><a href="/dotnet-bot/dotnet-bot-ascii-pot-small.png"><img src="/dotnet-bot/dotnet-bot-ascii-pot-small.png" width="250px"/></a> | The avatar for [@dotnet-bot](https://github.com/dotnet-bot). |
 | [Cup&lt;T&gt;](/cup_t)<br/><a href="/cup_t/Cup_t_small.png"><img src="/cup_t/Cup_t_small.png" width="250px"/></a> | The classic Cup&lt;T&gt;. |
@@ -27,4 +27,3 @@ Anyone is welcome to contribute new artwork to be used for .NET Foundation swag 
 ## License
 
 Artwork in the swag repo is licensed under the very permissive [CC0 1.0 Universal license](https://github.com/dotnet/swag/blob/master/LICENSE).  You are positively encouraged to use the artwork to create your own swag items to give away at community events etc. Be sure to tweet pictures to [@dotnetfdn](https://twitter.com/dotnetfdn) showing your swag being worn with pride!
-

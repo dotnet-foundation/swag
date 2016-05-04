@@ -22,6 +22,7 @@ The following assets are currently available:
 | [Open Live Writer](/openlivewriter)<br/><a href="/openlivewriter/olw_small.png"><img src="/openlivewriter/olw_small.png" width="300px"/></a> | Open Live Writer. |
 | [Roslyn](/roslyn)<br/><a href="/roslyn/roslyn_kuhlenh.png"><img src="/roslyn/roslyn_kuhlenh.png" width="250px"/></a> | Roslyn logo designed by [kuhlenh](https://github.com/kuhlenh) for supporters of the [Roslyn project](https://github.com/dotnet/roslyn). Can be used for stickers or to print on t-shirts, sunglasses, hats, mugs, etc. |
 | [Prism Library](/prism)<br/><a href="/prism/Prism_hi.png"><img src="/prism/Prism_sm.png" width="200px"/></a> | Prism Library for supporters of the [Prism Library project](https://github.com/PrismLibrary/Prism) |
+| [WiX Toolset](/wix)<br/><a href="/wix/wix-white.png"><img src="/wix/wix-white.png" width="250px"/></a> | WiX Toolset logo for supporters of the [WiX Toolset](http://wixtoolset.org/) |
 
 ## Contributing
 

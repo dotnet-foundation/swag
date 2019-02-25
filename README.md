@@ -26,7 +26,7 @@ The following assets are currently available:
 | [Polly](/polly)<br/><a href="/polly/Polly-Logo@4x.png"><img src="/polly/Polly-Logo@4x.png" width="250px"/></a> | Polly logo for supporters of the [Polly library](http://github.com/app-vnext/Polly/) |
 | [Reactive Extensions](/reactive-extensions)<br/><a href="/reactive-extensions/Logo_Color_300x300.png" width="250px"><img src="/reactive-extensions/Logo_Color_300x300.png" width="300px"/></a> | Reactive Extensions icon for supporters of the [Rx.NET project](https://github.com/Reactive-Extensions/Rx.NET). |
 | [Reactive UI](/reactiveui)<br/><a href="/reactiveui/reactiveui.png" width="250px"><img src="/reactiveui/reactiveui.png" width="300px"/></a> | ReactiveUI logo for supporters of the [ReactiveUI project](https://reactiveui.net). |
-| [Xamarin](/xamarin)<br/><a href="/xamarin/Xamagon/png/Xamagon.png" width="250px"><img src="/Xamarin/Xamagon/png/Xamagon.png" width="300px"/></a> | [Xamarin](http://xamarin.com) logo for supporters of mobile development with .NET. |
+| [Xamarin](/xamarin)<br/><a href="/xamarin/Xamagon/png/Xamagon.png" width="250px"><img src="/xamarin/Xamagon/png/Xamagon.png" width="300px"/></a> | [Xamarin](http://xamarin.com) logo for supporters of mobile development with .NET. |
 | [WiX Toolset](/wix)<br/><a href="/wix/wix-white.png"><img src="/wix/wix-white.png" width="250px"/></a> | WiX Toolset logo for supporters of the [WiX Toolset](http://wixtoolset.org/) |
 
 ## Contributing

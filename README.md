@@ -23,7 +23,7 @@ The following assets are currently available:
 | [Prism Library](/prism)<br/><a href="/prism/Prism_hi.png"><img src="/prism/Prism_sm.png" width="200px"/></a> | Prism Library for supporters of the [Prism Library project](https://github.com/PrismLibrary/Prism) |
 | [Polly](/polly)<br/><a href="/polly/Polly-Logo@4x.png"><img src="/polly/Polly-Logo@4x.png" width="250px"/></a> | Polly logo for supporters of the [Polly library](http://github.com/app-vnext/Polly/) |
 | [Reactive Extensions](/reactive-extensions)<br/><a href="/reactive-extensions/Logo_Color_300x300.png" width="250px"><img src="/reactive-extensions/Logo_Color_300x300.png" width="300px"/></a> | Reactive Extensions icon for supporters of the [Rx.NET project](https://github.com/Reactive-Extensions/Rx.NET). |
-| [Reactive UI](/reactiveui)<br/><a href="/reactiveui/reactiveui.png" width="250px"><img src="/reactiveui/reactiveui.png" width="300px"/></a> | ReactiveUI logo for supporters of the [ReactiveUI project](https://reactiveui.net). |
+| [Reactive UI](/reactiveui)<br/><a href="/reactiveui/main.png" width="250px"><img src="/reactiveui/main.png" width="300px"/></a> | ReactiveUI logo for supporters of the [ReactiveUI project](https://reactiveui.net). |
 | [Xamarin](/xamarin)<br/><a href="/xamarin/Xamagon/png/Xamagon.png" width="250px"><img src="/xamarin/Xamagon/png/Xamagon.png" width="300px"/></a> | Xamarin logo for supporters of the [Xamarin platform](https://xamarin.com) for iOS, Android, tvOS, watchOS, and macOS development with .NET. |
 | [WiX Toolset](/wix)<br/><a href="/wix/wix-white.png"><img src="/wix/wix-white.png" width="250px"/></a> | WiX Toolset logo for supporters of the [WiX Toolset](http://wixtoolset.org/) |
 

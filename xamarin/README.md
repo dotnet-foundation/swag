@@ -8,7 +8,7 @@ is an open source mobile platform enabling developers to craft beautiful cross-p
 
 ## Logo
 
-Here's our beloved logo and Xamagon, provided in various formats for your design needs. Please display the logo as is, without any modifications.
+Here's the beloved logo and Xamagon, provided in various formats for your design needs. Please display the logo as is, without any modifications.
 
 | Icon | PNG | SVG | PDF |
 |------------|-----|------|--------|

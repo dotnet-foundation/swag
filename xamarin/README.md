@@ -21,11 +21,11 @@ Here's our beloved logo and Xamagon, provided in various formats for your design
 
 <img src="assets/spacing.png" width="400px" alt=""/>
 
-Leave a healthy margin around our logo so it has room to breathe. Also, please don't combine our logo with other graphics.
+Leave a healthy margin around our logo so it has room to breathe. Also, please don't combine the logo with other graphics.
    
 ## Colors
 
-These are the main colors we use for Xamarin, with blue being our signature shade. The others should be used sparingly as accents.
+These are the main colors we use for Xamarin, with blue being the signature shade. The others should be used sparingly as accents.
 
 ![Swatches](assets/swatches.png)
 

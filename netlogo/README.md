@@ -1,0 +1,1 @@
+Please see the [dotnet/brand](https://github.com/dotnet/brand) repository for the official .NET brand guidelines, logo and additional dotnet-bot illustrations. 

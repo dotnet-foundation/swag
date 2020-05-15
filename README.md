@@ -1,4 +1,5 @@
 # .NET Foundation Swag
+_Note: If you are looking for .NET brand assets & illustrations, please see: [dotnet/brand](https://github.com/dotnet/brand)_
 
 The .NET team has historically created swag for the team. t-shirts, mugs, port glasses, bottle openers, stickers etc. It's a great way to show our pride in working on the team, being involved in the community or commemorating a major release.
 

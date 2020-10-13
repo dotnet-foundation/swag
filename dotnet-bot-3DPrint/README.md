@@ -4,7 +4,8 @@
 
 ![DotNet Bot Model](DotNetBot-3DModel.jpg)
 
-This repo contains the 3D STL files that can be used to 3D print a nice little DotNet Bot, here is one printed earlier.
+This folder contains the 3D STL files that can be used to 3D print a nice little DotNet Bot, here is one printed earlier.
+
 
 
 ![DotNet 3D Print](DotNetPrint.jpg)

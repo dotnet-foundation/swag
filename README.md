@@ -27,6 +27,8 @@ The following assets are currently available:
 | [Reactive UI](/reactiveui)<br/><a href="/reactiveui/main.png" width="250px"><img src="/reactiveui/main.png" width="300px"/></a> | ReactiveUI logo for supporters of the [ReactiveUI project](https://reactiveui.net). |
 | [Xamarin](/xamarin)<br/><a href="/xamarin/Xamagon/png/Xamagon.png" width="250px"><img src="/xamarin/Xamagon/png/Xamagon.png" width="300px"/></a> | Xamarin logo for supporters of the [Xamarin platform](https://xamarin.com) for iOS, Android, tvOS, watchOS, and macOS development with .NET. |
 | [WiX Toolset](/wix)<br/><a href="/wix/wix-white.png"><img src="/wix/wix-white.png" width="250px"/></a> | WiX Toolset logo for supporters of the [WiX Toolset](http://wixtoolset.org/) |
+| [Silk.NET](/silk.net)<br/><a href="/silk.net/silkdotnet_v3.png"><img src="/silk.net/silkdotnet_v3.png" width="250px"/></a> | Silk.NET logo for supporters of the [Silk.NET](https://github.com/dotnet/Silk.NET) low-level, high-speed graphics & compute library. |
+
 
 ## Contributing
 

@@ -5,7 +5,7 @@ The .NET team has historically created swag for the team. t-shirts, mugs, port g
 
 Now that the team just got a lot bigger with >2k folks contributing to the open source projects in the .NET Foundation it made sense to open up the artwork for swag. We also set up a self-service store to allow folks to purchase items of swag for themselves to show their love of .NET:
 
-[Order T-shirts and stickers on our store!](https://stores.kotisdesign.com/dotnetfoundation/)
+[Order T-shirts on the spreadshop store!](https://dotnet.myspreadshop.com/)
 
 ## Assets
 

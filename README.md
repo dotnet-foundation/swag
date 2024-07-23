@@ -17,6 +17,7 @@ The following assets are currently available:
 | [.NET Source T-Shirt](/dotnet_source)<br/>![.NET Foundation Logo](/dotnet_source/DotNetSource_small.png) | The .NET Source graphic, first seen on the T-Shirts distributed at the Build 2015 conference in San Francisco. |
 | [Cup&lt;T&gt;](/cup_t)<br/><a href="/cup_t/Cup_t_small.png"><img src="/cup_t/Cup_t_small.png" width="250px"/></a> | The classic Cup&lt;T&gt;. |
 | [dotnet-bot](/dotnet-bot)<br/><a href="/dotnet-bot/dotnet-bot-ascii-pot-small.png"><img src="/dotnet-bot/dotnet-bot-ascii-pot-small.png" width="250px"/></a> | The avatar for [@dotnet-bot](https://github.com/dotnet-bot). |
+| [.NET Aspire](/dotnet-aspire)<br/><a href="/dotnet-aspire/dotnet-aspire-logo-256.png"><img src="/dotnet-aspire/dotnet-aspire-logo-256.png" width="250px"/></a> | The icon for [.NET Aspire](https://github.com/dotnet/aspire). |
 | [Kudu](/kudu)<br/><a href="/kudu/kudu_small.png"><img src="/kudu/kudu_small.png" width="250px"/></a> | Kudu icon for supporters of the [Kudu project](https://github.com/projectkudu/kudu). |
 | [Azure SDK](/azure-sdk)<br/><a href="/azure-sdk/azure_sdk_small.png"><img src="/azure-sdk/azure_sdk_small.png" width="300px"/></a> | Azure Toolset graphic for the Azure SDK for .NET |
 | [Open Live Writer](/openlivewriter)<br/><a href="/openlivewriter/olw_small.png"><img src="/openlivewriter/olw_small.png" width="300px"/></a> | Open Live Writer. |
